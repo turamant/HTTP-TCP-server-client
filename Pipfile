@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 twisted = "*"
+glom = "*"
 
 [dev-packages]
 
